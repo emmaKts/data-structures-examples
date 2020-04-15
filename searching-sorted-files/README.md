@@ -1,4 +1,4 @@
-The application offers a menu of options for the following:
+### Menu
 
 0. Create the file
 1. Serial search - Print the average
